@@ -27,7 +27,7 @@ terraform apply
 
 # Architecture:
 
-
+![alt text](https://github.com/rahulradhakrishnan-falcon/penni/blob/master/arch.png)
 
 
 
